@@ -1,0 +1,6 @@
+name: AWS Lambda
+description: Wrapper for deploying to lambda instances
+core: 8.x
+type: module
+package: aws
+
